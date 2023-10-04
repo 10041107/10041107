@@ -30,7 +30,7 @@
 
 
 # 🔧 Tools availability <br>
-   <img src="css3-color.svg" width="120" height="100"/>    <img src="html5-color.svg" width="120" height="100"/> 
+   <img src="css3-color.svg" width="120" height="100"/>    <img src="html5-color.svg" width="120" height="100"/>   <img src="typescript-color.svg" width="120" height="100"/> 
 
 
 <br>
